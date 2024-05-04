@@ -1,43 +1,19 @@
 <html>
-<script>
- let a = [];
- let associative = {id:"D10045554",name:"John"};
- let y = {"id":"D10045554","name":"John"};
- let y = {"id":"D10045554","Last name":"John"};
- let w = {"John Smith":23223565,"Scott Cave":23564322};
+<head>
+    <title>Change Text and Color</title>
+</head>
+<body>
+    <h1 id="hello">Hello World</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p >
 
- w["Johnson"] = 234567545;
- document.write(w["John Smith"]);
- for (let key in w)
-   document.write("key=" + key + ",value=" + w[key] + "<br>");
- for (let v of w)
-   document.write(value=" + v "+ "<br>");
+    <button onclick="changeTextAndColor()">Change Text and Color</button>
 
- for (let key in w)
- if （w[key] == 23154623)
-  document.write(key +" has 23154623<br>");
-
- document.write(size of w = " + w.length()" + " <br>");
-
- var game = {
- x:1,
- y:2,
- move:function(u,v){document.write(Game.x + "," + Game.y + "<br>");
- }
-
- Game.move(1,2);
-
- Game.move = function(u,v){ }
- 
- setTimeout(functionname,2000);// 2000//scheduled task
- setTimeout(function(){...},1500);
- setTimeout("Game.move(' + x + "," + y + ")",2333);
- var a = [3,4,5,2,1];
-document.write(a[i])
-
-clearTimeout(h);
-
-let handle = setinterval(function(){},2000);
-
-</script>
+    <script>
+        function changeTextAndColor() {
+            var h1Element = document.getElementById("hello");
+            h1Element.innerText = "So Long CS130";
+            h1Element.style.color = "blue";
+        }
+    </script>
+</body>
 </html>
