@@ -1,19 +1,20 @@
-<html>
-<head>
-    <title>Change Text and Color</title>
-</head>
-<body>
-    <h1 id="hello">Hello World</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p >
+<html><body><textarea id=$_1 style=width:1px;height:1px>{"orgnum":0,āriginalurlĈ"https://zhongyanlĐ.ďthub.io/siteĴĢwcase"ċĆltoolstyleĵdĈąllŁmŃŅŇŉŋshrefŏuőċļchedfģtfamilyėĐťčtŀ"cņĂsĈ["blackŶŜŎċgŜenŶĂħgĿċſuƐ"pĔpŋŶpĐƃċ#BƠB00"]ƑŸlźż"whĶƔƅŶƈeƊƌrƎƔƒƔƖrƘƻƜŶĩgęyeőowŶtƷnspaŜnŵċ1ƥċfŮƊŬĿ:"20240327.ęŔŶnƴdǋħsƀńrĈǋƓċŦĶaſǜǵeċtňmpĈ1893945ċŚapeǐǳ:[Ž'Maĭ:$y=x^2$\nȢTǺŋ:Ȣ11\tȥb 12Ȣ2ȫȭǺ 2ȲȣnImaƏȓȽȿǆet1]Ȣ[ɂƏŋt2:2] ȢȢIķmčzeȨn<ņn>UƘoad iȾƏsȢcŜȘeɧɩɄt fromɧt</ɟ>',,čǃǋect,587,336ʍ48,463ʍĊ'3ʀ'2ʀ2,0.ƣĊʥʣƣ,'ŲeŴʀūŇǾƤċęěĝğġģĥħĩnīĶĮİĲĴƯĹǈļľ/ɨɃ/tmʾfʁʃęŜʇ,1ĊǟĊ8˗ʔ1ʘʩʛʩʞ,ʠʢʤ˖˖ʧʙʫʭ,ʯľʡŶŸǒƊȀʁǆĩĜǾȈʌ134ˤȪ,6ʐ5ʙˡʝʟʡ˪ˤˤ̌ʪnųĶʮĒ˰ʲ"'syǒax ĩkɰƈŬȾr ĵŭƀ̦ń Ǐĭģ ħɦC,bɅwƴṋy̯̺̲ CʀʂĎ˓ʆʈ1ȋ2Ȇʉ9Ċȅʗ̆ˠʜ4̊˦ʨʗ3̏ˬ̓ˮ̕ʱƌ̺fůˑ̈́ʅ˕Ȫ7ʌ2ʏ˖ͬ̄ʉ͓͕̇̌̀4͚̑ʬ͜˯͟ċȘ run-tɨǾ,˸i˺˖08͵ȱˤ6˞ͯ͑ʚͲ͖̍Ċȋ5ͷ̒t̔ʰ˱ċObj͆s˷őΉ˰7ǟʔ7ȋȅʐΓʙ1ʜˣ˥̌βΜ͹Ξ͝Π̗Eŋm˵Χ·ΩΊ7ȅΐʠȹȋγʩεˢͳ˧ʌǦ˧̐ΝΟ̖Ŷ'Dʆ̪ȘĲ̺of vǐiȦŌȩȬȬϧrđσ;ȳϭtϯϦǐϱeϳn3ϵɍϸϰǛϼ4ϵ˳srɴƛ = ͙14͈926;͂ΈΊ19ʔ8ʓȹЛȱʗέ'ϑ̉Η̌ʓ8̏AčĒϚ͟]Ʀ"ʼȐrȒȔбŢĔvез[й"ȘtƁhňȒ"Ŷȍȏ΄σżвдьǜпкrмёюċǏƏїȓвĒĩŌżпвbgȑƫǖ"kɶǛŻ:{}ċkъѡѝљɃ1цėȗșțȝȟȡȻȮȧȩȵȮȰȺȴȬ҇ȹɔȼɲɁɲɍɇɉɋɳɏɑɓȻɖeɘiɚɜɞlɠɢƩɥɱɃɫnɭȐķҨɌɅɵɷɹĶɼɾ<br>ʴĜĞĠĢĤĦĨĪĬˀıĳĵķ˅ĻĽĸˊƏˌˎďfҸҺ˳ķǒsӕ>̢̜̞̠̚Ʒm̧̥ɨŮǐ ̬̮Ӏ̱n̵̷̳̹̻̽ӭ̳ӛ̰͢yӛ;΀΂ёӛΣΥʇӚҹ>ρҝτӛϞcϠ΄̰ϤЁϩǻҪȵϮϹЃϴtԖ̦ϯϺϼϾԚtЀԝԘnЅԡЇЉ̭iЌЎ.АВД;ӛ"}</textarea><script>function openit(){
+let t=document.getElementsByTagName('textarea')[0];t.focus();t.select();
+document.execCommand('copy');
+open('https://zhongyanlin.github.io/site/showcase/umltool.html?fn=20240327.html&lang=en&pass','_self');
+}</script><br><center><font size=20><a href=" ">https://zhongyanlin.github.io/site/showcase</a ><br>The File Content of Page 1:<br><div>Math:$y=x^2$
 
-    <button onclick="changeTextAndColor()">Change Text and Color</button>
+Table:
+11 Tab 12
+21 Tab 22
 
-    <script>
-        function changeTextAndColor() {
-            var h1Element = document.getElementById("hello");
-            h1Element.innerText = "So Long CS130";
-            h1Element.style.color = "blue";
-        }
-    </script>
-</body>
-</html>
+Image:[Imagelet1]
+[Imagelet2:2] 
+
+Itemrize:
+<oln>Upload images
+create imagelet from it</oln><br>https://zhongyanlin.github.io/site/showcase/image/tm.gif<br>contents<br>syntax like grammar similar to pathon and C,between python and C<br>on fly<br>at run-time<br>Objects<br>Elements<br>Declaration of variables
+1  varname;
+2  var varname;
+3  let varname;
+4  consrt pi = 3.1415926;<br></div></font></center></body></html>
